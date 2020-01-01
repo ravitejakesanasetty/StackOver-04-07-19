@@ -22,7 +22,7 @@ import com.pawana.stack.post.util.Status;
 
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/lasss")
 public class StackPostController {
 	@Autowired
 	private UserRepository userRepository;
